@@ -8,3 +8,5 @@ Split the dataset into train/test sets and explain your reasoning.
 Build a predictive model to predict which customers are going to churn and discuss the reason why you choose a particular algorithm.
 Establish metrics to evaluate model performance.
 Discuss the potential issues with deploying the model into production.
+
+The project aims to answer these questions. 
